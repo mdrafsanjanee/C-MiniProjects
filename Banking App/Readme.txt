@@ -1,0 +1,1 @@
+Simulates basic banking operations like deposit, withdrawal, and balance checking.

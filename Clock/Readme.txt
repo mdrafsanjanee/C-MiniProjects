@@ -1,0 +1,1 @@
+Displays time with hour, minute, second, and AM/PM format.
