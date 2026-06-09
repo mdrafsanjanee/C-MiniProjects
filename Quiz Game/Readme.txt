@@ -1,0 +1,1 @@
+Console-based quiz system with scoring logic.

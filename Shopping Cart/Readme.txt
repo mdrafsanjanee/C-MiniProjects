@@ -1,0 +1,1 @@
+Simulates item selection and total cost calculation.
